@@ -1,0 +1,71 @@
+body {
+    margin:0%;
+    padding: 0%;
+}
+
+.container{
+    background-color: ;
+}
+
+.top-part{
+    display: flex;
+    background: #f5deb33a;
+}
+.texts {
+    
+    font-family: 'Montserrat';
+    font-weight: bolder;
+    display: inline;    
+    width: 50%;
+    margin: 150px;
+    margin-left: 80px;
+    font-size: 2em;
+}
+.image {
+    width: 50%;
+    display: inline;
+    text-align: right;
+}
+img {
+    height:100%;
+    width: 80%;
+    margin-right: 30%;
+}
+a {
+    background-color: gray;
+    border: 1px solid gray;
+    border-radius: 5% ;
+    text-decoration: none;
+    color: white;
+    padding: 2%;
+
+}
+a:hover{
+    background-color: rgba(128, 128, 128, 0.603);
+}
+a:checked{
+    background-color: aqua;
+}
+.about{
+    background: #f5deb33a;
+}
+.title {
+    
+    font-family: 'Roboto';
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    
+
+}
+.para {
+    font-weight: bolder;
+    font-family: 'Roboto';
+    text-align: justify !important;
+}
+
+.early-life h3{
+    font-family: 'Montserrat';
+    font-weight: bolder;
+    font-size:  1.5em;
+}
